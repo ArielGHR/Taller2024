@@ -1,0 +1,17 @@
+.encabezado{
+    background-color: rgb(149, 162, 255);
+    padding: 50px;
+    width: 600px;
+}
+
+.nombre{
+    background-color: rgb(255, 83, 83);
+}
+
+.imagen{
+    width: 300px;    
+}
+
+.cuadro{
+   background-color: aquamarine; 
+}
